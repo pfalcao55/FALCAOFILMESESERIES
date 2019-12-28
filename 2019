@@ -1,285 +1,669 @@
+<?xml version="1.0" encoding="utf-8"?>
 
+         
 
-      
-
-      
-#EXTINF:-1 tvg-id="" tvg-logo="http://jfinfocell.com/img/rampage-destruicao-total-capa.jpg" group-title="Filmes",RAMPAGE: DESTRUIÇÃO TOTAL (Dublado) - 2018
-https://d14chltqrjxpin.cloudfront.net/RCFServer4//ondemand/RMPGEDSTRCAOTL.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/wmvYBM" group-title="Filmes",ROTA DE FUGA (Dublado) - 2013
-hhttps://d14chltqrjxpin.cloudfront.net/RCFServer4/ondemand/RTADFGA.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iFTEV7B.jpg" group-title="Filmes",ROTA DE FUGA 2 (Dublado) - 2018
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/RTADFGA2.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-RzNsRKRZGHs/WnPmcTJgZ5I/AAAAAAAAchY/LlhtKwhduTouyCTJU2rFPcJtX7o5KHBmQCLcBGAs/s1600/Uma%2BDobra%2Bno%2BTempo%2B%25282018%2529.jpg" group-title="Filmes",UMA DOBRA NO TEMPO  - 2018
-https://d14chltqrjxpin.cloudfront.net/RCFServer4/ondemand/UMDOBRNTEMP.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="http://www.mytop.fm/wp-content/uploads/2018/09/elenco-do-filme-a-freira-relata-758x426.jpg" group-title="Filmes",A FREIRA (Dublado) - 2018
-hhttps://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/AFRA.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://start-tv.net/wp-content/uploads/2018/09/The-Predator-2018-Movie-Poster-Images-and-Wallpapers.jpg" group-title="Filmes",O PREDADOR 2018 (Dublado)
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/OPRDRLEG.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="http://ekladata.com/p0miCXE7FXa_2Lf2wwZcPFPzu4w.jpg" group-title="Filmes",MEGATUBARÃO  2018 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/MEGTBRAO.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://www.comboinfinito.com.br/principal/wp-content/uploads/2018/04/Arranha-c%C3%A9u.jpg" group-title="Filmes",ARRANHA-CÉU: CORAGEM SEM LIMITE (Dublado) - 2018 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/ARNHCEUCRGMSMLMT.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-CUu1wjLrUF0/W3drAOnb9QI/AAAAAAAoAw/KzEFpUEi66EX0I9TOM1-Q0xXlyaFZe-EwCLcBGAs/s1600/Te%2BPeguei%2521%2B2018.png" group-title="Filmes",TE PEGUEI! (Dublado) - 2018 
-https://d14chltqrjxpin.cloudfront.net/RCFServer4/ondemand/TEPGUE.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/fir63ujRQxQ/hqdefault.jpg" group-title="Filmes",MENTES SOMBRIAS (Dublado) - 2018 -
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/MNTSSMBRS.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="http://www.bludvfilmes.com/wp-content/uploads/2018/09/sicario2.jpg" group-title="Filmes",SICÁRIO: DIA DO SOLDADO (Dublado) - 2018 - 1080p
-https://d14chltqrjxpin.cloudfront.net/RCFServer4/ondemand/SCRODIADSLDO.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://megafilmestorrents.org/wp-content/uploads/2018/09/2435371.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg" group-title="Filmes",A MALDIÇÃO DA FREIRA (Legendado) - 2018 - 1080p
-https://d14chltqrjxpin.cloudfront.net/RCFServer4/ondemand/THEDVLDRWYLEG.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://4.bp.blogspot.com/-PBbHqsE83G4/W3brhHhTfyI/AAAAAAAAn9Q/PKlmlQcDnYgxZVNrfZnjVZ3qOwycBj_9QCLcBGAs/s1600/O%2BProtetor%2B2.png" group-title="Filmes",O PROTETOR 2 (Dublado) - 2018 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/OPRTOR2.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://www.tocadnovo.com/wp-content/uploads/2018/09/Mamma-Mia-Here-We-Go-Again-e1538314281173.jpg" group-title="Filmes",MAMMA MIA!: LÁ VAMOS NÓS DE NOVO (Dublado) - 2018 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/MAMMIALAVMSNSDNVO.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w300/fV5kUiiazJ90KmPYcXyc6tyknku.jpg" group-title="Filmes",A CASA DO MEDO (Dublado) - 2018 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/ACSDMDOINCDNEMGHSTLND.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.cinepop.com.br/2017/10/perfeitaeamae2_1.jpg" group-title="Filmes",PERFEITA É A MÃES 2 (Dublado) - 2017 - 
-https://d14chltqrjxpin.cloudfront.net/RCFServer4/ondemand/PRFTEAMA2.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="http://www.jornaldaparaiba.com.br/app/uploads/2018/09/O-Mistério-do-Relógio-na-Parede-poster.jpg" group-title="Filmes",O MISTÉRIO DO RELÓGIO NA PAREDE 2018
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/OMSTRDRLGIONPRDE.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="http://www.venom.movie/site/images/share/shareImage.jpg" group-title="Filmes",VENOM 2018
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/VENOMLEG.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://capas-silver.com/wp-content/uploads/2018/09/Capa-DVD-22-Milhas-2018.jpg" group-title="Filmes",22 MILHAS (Dublado) - 2018 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/22MLHS.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.fstatic.com/media/movies/covers/2018/10/A-Star-Is-Born-poster-2.jpg" group-title="Filmes",NASCE UMA ESTRELA 2018
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/NSCUMAESTLA.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://feededigno.com.br/wp-content/uploads/2018/11/Animais-Fant%C3%A1sticos-Os-Crimes-de-Grindewald-18-11-12-img00.jpg" group-title="Filmes",ANIMAIS FANTÁSTICOS: OS CRIMES de GRINDEWALD
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/ANMSFNTSTCOSCRMSDGRLWRD.mp4
- #EXTINF:-1 tvg-id="" tvg-logo="http://cdn.ofuxico.com.br/img/upload/noticias/2018/09/05/hallo-2_328978_36.jpg" group-title="Filmes",HALLOWEEN – Filme 2018
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/HLWN2018DUB.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://url.gratis/7qMSr" group-title="Filmes",CAIXA DE PÁSSAROS (Dublado) - 2018 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/CXDPASRO.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="http://redutodorock.com.br/redutodorock/site/wp-content/uploads/2018/10/CQ.jpg" group-title="Filmes",BOHEMIAN RHAPSODY
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/BOHMNRHPSODY.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://i1.wp.com/canoticias.pt/wp-content/uploads/2018/11/robin-hood-passatempo-cinema-ganha-convites-antestreia-filme-CANoticias-2.jpg" group-title="Filmes",ROBIN HOOD – A ORIGEM - 2018
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/RBNHODAORGM.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2018/11/Bumblebee-poster-35462-600x873.jpg" group-title="Filmes",BUMBLEBEE - 2018
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/BUMBLE.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Wildling%20-%20Criaturas%20Noturnas.jpg" group-title="Filmes",WILDLING: CRIATURAS NOTURNAS/ SELVAGEM (Dublado) - 2019 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/SLVGMWDLNG.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w500/mytDZ2Uulslrts6O8uskJyB7Oel.jpg" group-title="Filmes",FUGA DO HOSPÍCIO: A HISTÓRIA DE NELLIE BLY (Dublado) - 2019 - 720p
-hhttps://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/FGADHSPCIOAHSTRDNLEBLY.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w342/z5gQEhO06EnIOjzzEBAb4WgbeTQ.jpg" group-title="Filmes",CORREDOR ASSOMBRADO (Dublado) - 2019 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/CRDRASBRDO.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://thepirateday.co/wp-content/uploads/2019/01/jrjnzdwloog.jpg" group-title="Filmes",RESGATE NO OESTE (Dublado) - 2019 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/RSGTNOSTE.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="http://www.filmesviatorrents.info/wp-content/uploads/2019/02/O-Quebra-Nozes-e-os-Quatro-Reinos-torrent-info.png" group-title="Filmes",O QUEBRA-NOZES E OS QUATRO REINOS (Dublado) - 2018 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/OQBRNZSEOQTRORNO.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QCQ9KPZ.jpg" group-title="Filmes",ENTREVISTA COM DEUS (Dublado) - 2018 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/ENTRVSTCMDEUS.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://4.bp.blogspot.com/-ZVMVuGgkLhs/XDiljOIoE-I/AAAAAAAAyuo/xdUgzoZme_on7LS-G7WXuck1tF1Wl-ANQCLcBGAs/s1600/M%25C3%25A1quinas%2BMortais.jpg" group-title="Filmes",MÁQUINAS MORTAIS - 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/MAQNSMRTS.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://capasgratis.com.br/wp-content/uploads/2019/01/capa-dvd-filme-as-viuvas.png" group-title="Filmes",AS VIÚVAS 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/ASVIUVS.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://www.jornalspnorte.com.br/enviados/2019/01/creed-ii.jpg" group-title="Filmes",CREED II- 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/CRED2.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://static.cineclick.com.br/sites/adm/uploads/banco_imagens/69/1080x1620_1535246441.jpg" group-title="Filmes",WIFI RALPH: QUEBRANDO A INTERNET - 2018
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/WIFIRLPHQBRNDOAINTNET.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://4.bp.blogspot.com/-YV9SY29qk9k/W3x-aE3xi8I/AAAAAAAACFU/7riMjZeNy7k4EUJNLw7nCCShHvyH4nsUACLcBGAs/s1600/capa.jpg" group-title="Filmes",RUAS DE FOGO -1985
-https://d14chltqrjxpin.cloudfront.net/RCFServer4/ondemand/RUSDFOGO.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://filmestorrents.ninja/wp-content/uploads/2019/03/Green-Book-O-Guia-Torrent-2019-Dual-Áudio-Dublado-5.jpg" group-title="Filmes",GREEN BOOK: O GUIA  - 2019 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/GRENBOKOGUA.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://cometa.top/player3/imgs-videos/Filmes/Minha%20Vida%20em%20Marte.jpg" group-title="Filmes",MINHA VIDA EM MARTE (Nacional) - 2018
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/MNHVDAEMRTE.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="http://bit.ly/2ODyBmp" group-title="Filmes",O RETORNO DE MARY POPPINS (Dublado) - 2018
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/ORTNODMRYPOPS.mp4?attachment=true
- #EXTINF:-1 tvg-id="" tvg-logo="https://bit.ly/2UNpVQQ" group-title="Filmes",VIDRO (Dublado) - 2019 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/VDRO.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://bit.ly/2UIvcsK" group-title="Filmes",HOLMES & WATSON (Dublado) - 2019 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/HLMSEWTSN.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://bit.ly/2GuYS2S" group-title="Filmes",STAN & OLLIE O GORDO E O MAGRO - 2018
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/STNEOLIEOGRDOEOMGRO.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://bit.ly/2IIyJ2X" group-title="Filmes",O MENINO QUE QUERIA SER REI - 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/OMENOQQSREI.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://bit.ly/2IIyJ2X" group-title="Filmes",NÃO OLHE (Dublado) - 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/NOLH.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://bit.ly/2Uug1OR" group-title="Filmes",MISS BALA (Dublado) - 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/MISBLA.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://bit.ly/2Dvk87U" group-title="Filmes",GOLPE DE RISCO (Dublado) - 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/GLPDRSCO.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://bit.ly/2ILXBaS" group-title="Filmes",DUMBO - 2019 - DUBLADO
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/DMBO.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://bit.ly/2IXNZdj" group-title="Filmes",HELLBOY 2019 - LEGENDADO
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/HLBOY.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://bit.ly/2WimrCl" group-title="Filmes",SOB O SOL DO OESTE (Dublado) - 2019 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/SBOSLDOST.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://bit.ly/2J14UM9" group-title="Filmes",ALITA: ANJO DE COMBATE 2018
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/ALITANGDCMBT.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://bit.ly/30hOYKG" group-title="Filmes",EXTREMAMENTE PERVERSO, ESCANDALOSAMENTE CRUEL E VIL (Legendado) - 2019 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/EXTRMLYWCKEDSCKEVAVLEG.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://bit.ly/2Jkh82O" group-title="Filmes",BUNDY AND THE GREEN RIVER KILLER (Legendado) - 2019 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/BNDYANDTHGRENRVRKLRLEG.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://bit.ly/30iUoW4" group-title="Filmes",THE CONVENT (DUBLADO) - 2018 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/ASHRGS.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://bit.ly/2QfffoG" group-title="Filmes",CEMITÉRIO MALDITO 2019 DUBLADO
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/CMTRMLDTO.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://bit.ly/2VzsOAf" group-title="Filmes",A MALDIÇÃO DA CHORONA 2019 DUBLADO
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/AMLDCAODCHRNA.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/N6r5k" group-title="Filmes",ALADDIN 2019 DUBLADO
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/ALDN.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/pUbd0" group-title="Filmes",JOHN WICK 3 – PARABELLUM Dublado - 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/JHNWCK3.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/pUbd0" group-title="Filmes",JOHN WICK 3 – PARABELLUM Dublado - 2019
-https://cdn.openload.network/hls/ee7a7b7e471346e0ffa2ff8dc8ad0e12/ee7a7b7e471346e0ffa2ff8dc8ad0e12.m3u8
- #EXTINF:-1 tvg-id="https://url.gratis/wxDAA" group-title="Filmes",NÓS - Dublado - 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/NOS.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/fVssF" group-title="Filmes",VINGANÇA A SANGUE-FRIO (Legendado) - 2019 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/VNGCASNGFRIO.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/FUJAX" group-title="Filmes",O MISTÉRIO DAS GAROTAS PERDIDAS Dublado - 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/OMSTRODSGRTSPRDS.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/inPOv" group-title="Filmes",A MORTE TE DÁ PARABÉNS (Dublado) - 2017 - 1080p
-https://d14chltqrjxpin.cloudfront.net/RCFServer4/ondemand/AMRTDPRBNS.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/k7Z1X" group-title="Filmes",A MORTE TE DÁ PARABÉNS 2 (Dublado) - 2019 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/AMRTDPRBNS2.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/7Nm05" group-title="Filmes",ATENTADO AO HOTEL TAJ MAHAL Dublado 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/ATNDOAOHTLTJMHL.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://bit.ly/2QfffoG" group-title="Filmes",A REBELIÃO DUBLADO 2019
-https://delivery.openload.network/drive//hls/11f03e8f4f1dd57a8a2e96c2219b0943/11f03e8f4f1dd57a8a2e96c2219b0943.m3u8
- #EXTINF:-1 tvg-id="https://url.gratis/wf8Wf" group-title="Filmes",ROCKETMAN  2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/RCKMAN.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/7LEnT" group-title="Filmes",AS TRAPACEIRAS DUBLADO 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/ASTRPCRAS.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/cMFue" group-title="Filmes",DE PERNAS PRO AR 3 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/DPRNSPRAR3.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/le98L" group-title="Filmes",MIB: HOMENS DE PRETO –INTERNAC. 2019 (Dublado)
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/MIBHMDPRTINTER.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/5fOi4" group-title="Filmes",PETS: A VIDA SECRETA DOS BICHOS 2 Dublado 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/PETSAVSCDBS2.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/Vbh1x" group-title="Filmes",CÓPIAS – DE VOLTA À VIDA 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/CPSDVLT.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/gjntp" group-title="Filmes",A CINCO PASSOS DE VOCÊ
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/ACNCPASDVC.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/kljrQ" group-title="Filmes",TOY STORY 4 Dublado 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/TYSTRY4.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/6JRS2" group-title="Filmes",A CASA ASSOMBRADA (Dublado) - 2019 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/ACSASMVRDA.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/ZhDbG" group-title="Filmes",ROTA DE FUGA 3
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/RTADFGA3.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/STVmO" group-title="Filmes",SHAFT (Dublado) - 2019 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/SHFT.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/rGExb" group-title="Filmes",ANNABELLE 3: DE VOLTA PARA CASA 2019 (DUB)
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/ANBL3DVLTPCSA.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/XTGFT" group-title="Filmes",O RAPTO (Dublado) - 2019 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/ORPTO.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/BApkt" group-title="Filmes",PRECE AO NASCER DO DIA Dublado 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/UMPRCANTSDAMNHCE.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/lC4Ob" group-title="Filmes",BRIGHTBURN – FILHO DAS TREVAS 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/BRGBRNFLHDSTRVS.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/SxkQ7" group-title="Filmes",BRINQUEDO ASSASSINO 2019 (Dublado)
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/BRNQDASASNO.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/TV2vP" group-title="Filmes",YESTERDAY (DUBLADO) 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/YESRTDY.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/wfJZC" group-title="Filmes",A.M.I. (Dublado) 2019
-https://cdn.netcine.info/html/content/conteudolb4/filmes2019/AMILEG-BAIXO.mp4?token=QTWSkvkPvNT-DGWaTSaarg&expires=1577563325
- #EXTINF:-1 tvg-id="https://url.gratis/IyOeu" group-title="Filmes",THE KID 2019
-https://cdn.netcine.info/html/content/conteudolb4/filmes2019/THEKID-BAIXO.mp4?token=pBqVAuzNRJyxrDePaR24Uw&expires=1577563255
- #EXTINF:-1 tvg-id="https://url.gratis/ZagPX" group-title="Filmes",RESGATE MORTAL (Dublado) 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/RSGTMRTL.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/QZJT1" group-title="Filmes",O REI LEÃO 2019 (Legendado)
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/OREILEO.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/zsDxj" group-title="Filmes",CAÇADOR DE DEMÔNIOS (Dublado)
-https://d14chltqrjxpin.cloudfront.net/RCFServer4/ondemand/CCDRDMNS.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/3L49P" group-title="Filmes",CASAL IMPROVÁVEL (Legendado)
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/CSLIMPVL.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/7dxPH" group-title="Filmes",STUBER (DUBLADO) 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/STBRACRDAMLCA.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/FDUiy" group-title="Filmes",THE CHURCH (Legendado) 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/AINGJALEG.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/9mpUi" group-title="Filmes",ENTRE MUNDOS (Dublado) 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/ENTMNDS.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/KMmN7" group-title="Filmes",PREDADORES ASSASSINOS (Dublado) 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/PRDRSASANS.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/gEXCn" group-title="Filmes",ERA UMA VEZ EM HOLLYWOOD - 2019
-https://cdn.openload.network/hls/4efc72956faaa271f11a45a297ad60ab/4efc72956faaa271f11a45a297ad60ab.m3u8
- #EXTINF:-1 tvg-id="https://url.gratis/tehEA" group-title="Filmes", VELOZES & FURIOSOS: HOBBS & SHAW (Dublado) 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/VLZEFROSOSHBSESW.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/NmpHl" group-title="Filmes",EL CHICANO (Dublado) - 2018 - 720p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/ELCHCNO.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/JQgdr" group-title="Filmes",GODZILLA II: REI DOS MONSTROS (Legendado) - 2019 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/GDZLAOREDSMNSTSLEG.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/lBmDY" group-title="Filmes",D-RAILED (Dublado) - 2018 - 720p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/DRLD.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/5Vo82" group-title="Filmes",TURMA DA MÔNICA: Laços
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/TRMDMNCLCS.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/mJYQm" group-title="Filmes", MEDO PROFUNDO (Dublado) - 2018 - 1080p
-https://d14chltqrjxpin.cloudfront.net/RCFServer4/ondemand/MDOPRFND.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/w1bbp" group-title="Filmes", MEDO PROFUNDO 2 – O SEGUNDO ATAQUE (Legendado) 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/MDOPRFNDOSGNDOATOLEG.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/WotFS" group-title="Filmes", MA (Dublado) 2019 720
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/MA.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/hRvSC" group-title="Filmes", IT – CAPÍTULO DOIS Dublado - 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/ITCAP2.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/HuVhJ" group-title="Filmes",A LENDA DE GOLEM (Dublado) - 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/ALNDOGLM.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/07x3k" group-title="Filmes", CLOWN 2019 (Dublado)
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/CLWN.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/7wLn5" group-title="Filmes",A CASA DA ÁRVORE (Dublado) - 2019 - 720p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/ACSDAVRE.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/5ZJLW" group-title="Filmes",A MOÇA DA LIMPEZA (Dublado) - 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/AMCADLMPZA.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/FFfE3" group-title="Filmes",CRIMES OBSCUROS - Dub - 2019 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/CRMSOBSCRS.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/JswkN" group-title="Filmes",ANNA: O PERIGO TEM NOME - Dub - 2019 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/ANAOPRGTMNME.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/PcdqZ" group-title="Filmes",THE BOAT (Dublado) - 2019 - 720p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/THBOAT.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/D5NSN" group-title="Filmes",RAMBO – Até o Fim Dub -2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/RMBOATOFM.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/7is4A" group-title="Filmes",CORINGA LEGENDADO
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/CRNGALEG.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/7is4A" group-title="Filmes",CORINGA Dublado
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/CRNGA.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/XyVdz" group-title="Filmes",CAMPO DO MEDO  - Dub - 2019 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/CMPDMEDO.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/2pKdB" group-title="Filmes",PROJETO GEMINI - Dub - 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/PRJTGMNI.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/g1wst" group-title="Filmes",O MAL NÃO ESPERA A NOITE - 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/MDSNMROMLNESPRANTELEG.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/dxE36" group-title="Filmes",ZUMBILÂNDIA – ATIRE DUAS VEZES LEG - 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/ZMBLNDATRDSVZLEG.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/wxGNO" group-title="Filmes",MALÉVOLA – DONA DO MAL Dublado
-https://delivery.openload.network/drive//hls/5fce7476619a5364ad5457737783ca6f/5fce7476619a5364ad5457737783ca6f.m3u8
- #EXTINF:-1 tvg-id="https://url.gratis/vilMO" group-title="Filmes",A FAMÍLIA ADDAMS 2019 Dublado
-https://s-delivery7.mxdcontent.net/v/112f32658c258529a600627d273ffb1c.mp4?s=PSxWWZjZxC9NhBo86FYWxA&e=1577559424
- #EXTINF:-1 tvg-id="https://url.gratis/daWxu" group-title="Filmes",O EXTERMINADOR DO FUTURO – DESTINO SOMBRIO
-https://s-delivery7.mxdcontent.net/v/7077fc1d929ceffded6e9c5976bbf05a.mp4?s=HchjQ2BY-qnjUz2q7XBVOQ&e=1577559371
- #EXTINF:-1 tvg-id="https://url.gratis/NII9M" group-title="Filmes",RAINHAS DO CRIME (Dublado) - 2019 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/RNHASDCRME.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/nFHkl" group-title="Filmes",AS PANTERAS 2019 Dub
-https://delivery.openload.network/drive//hls/9abdbc91fb8cf880b5e7bec1e50c9d0d/9abdbc91fb8cf880b5e7bec1e50c9d0d.m3u8
- #EXTINF:-1 tvg-id="https://url.gratis/N0Idt" group-title="Filmes",FORD vs. FERRARI 2019
-https://delivery.openload.network/drive//hls/cc36c78038b3ad3b8b5e47e3f0bbace9/cc36c78038b3ad3b8b5e47e3f0bbace9.m3u8 
- #EXTINF:-1 tvg-id="https://url.gratis/WvPQ6" group-title="Filmes",MIDWAY – BATALHA EM ALTO MAR Dub- 2019
-https://s-delivery7.mxdcontent.net/v/c413ab23e246644eb4ceeac2a39a5f3d.mp4?s=KNv0ZTVtmaSfvsEdlb853w&e=1577559326
- #EXTINF:-1 tvg-id="https://url.gratis/44cd1" group-title="Filmes",PÁSSARO DO ORIENTE - Dub - 2019 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/PSRODORNTE.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/2P4FN" group-title="Filmes",O PINTASSILGO  - Dub - 2019 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/OPNTSLGO.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/BOSSF" group-title="Filmes",O IRLANDÊS - Dub - 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/OIRLNDS.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/N8yqz" group-title="Filmes",INVASÃO AO SERVIÇO SECRETO  - Leg - 2019 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/INVSAOSRVSCRTOLEG.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/uPqky" group-title="Filmes",AD ASTRA – RUMO ÀS ESTRELAS - LEG - 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/ADSTRMASESTRLS.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/XmJm3" group-title="Filmes",CENTRO DE TRAUMA - Dub - 2019 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/CNTRDTRMA.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/ukpJN" group-title="Filmes",DOUTOR SONO  - Dub - 2019
-https://cdn.netcine.info/html/content/conteudolb4/filmes2019/DOCTORSLEEPILEG-BAIXO.mp4?token=j5k8W4vzdsvmpyoLJRmpxg&expires=1577563170
- #EXTINF:-1 tvg-id="https://url.gratis/XNqaT" group-title="Filmes",OS MORTOS NÃO MORREM - Dub-2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/OSMRTSNMOREM.mp4?attachment=true
-#EXTINF:-1 tvg-id="https://url.gratis/lZNff" group-title="Filmes",JUMANJI – PRÓXIMA FASE - Leg - 2019
-https://s-delivery11.mxdcontent.net/v/a344e675a2e515f94a97ae19738b8a1e.mp4?s=nbJAzO7gmSqohqncfRUWdA&e=1577559262
- #EXTINF:-1 tvg-id="https://url.gratis/FMrK1" group-title="Filmes",CODE 8 – RENEGADOS Dublado - 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/CD8RNGDS.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/OvcxK" group-title="Filmes",JUDY: MUITO ALÉM DO ARCO-ÍRIS Legendado - 2019 - 1080p
-https://s-delivery11.mxdcontent.net/v/da9484e15b3cf10fcabeca001eec5006.mp4?s=4Nl4KYLN2Pbz7D3UqkDE4g&e=1577559219
- #EXTINF:-1 tvg-id="https://url.gratis/UBmiA" group-title="Filmes",O QUARTO DOS DESEJOS Legendado- 2019
-https://s-delivery7.mxdcontent.net/v/850a4b7e18ac6579909b75c653d30265.mp4?s=koHgoCLoWcWb-9-Rf4VcsA&e=1577559177
- #EXTINF:-1 tvg-id="https://url.gratis/SYqjE" group-title="Filmes",ESQUADRÃO 6 - Dublado - 2019
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/ESQDRAO6.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/VTUXr" group-title="Filmes",VINGANÇA À SANGUE FRIO (Dublado) - 2019 - 1080p
-https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/VNGCASNGFRIO.mp4?attachment=true
- #EXTINF:-1 tvg-id="https://url.gratis/JnMPQ" group-title="Filmes",STAR WARS – A ASCENSÃO SKYWALKER-Dub-2019
-https://s-delivery9.mxdcontent.net/v/4648184bcc712b74f1ba657fe06c6dfa.mp4?s=GmIYrEHVSXXlf9oEADA1NA&e=1577559133
- #EXTINF:-1 tvg-id="https://url.gratis/3hpGT" group-title="Filmes",CATS Legendado 2019 - 1080p
-https://s-delivery13.mxdcontent.net/v/3cfae3afdb950848a48209edda965265.mp4?s=BHCcW2BduL051Wj9wGGZOQ&e=1577559061
+<item>
+<title>[COLOR magenta][B]Rampage: Destruição Total (Dublado) - 2018 - 1080p[/B][/COLOR]</title>
+<link>https://d14chltqrjxpin.cloudfront.net/RCFServer4/ondemand/RMPGEDSTRCAOTL.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/iGJD3</thumbnail>
+<fanart>https://i.imgur.com/7BXyj9V.jpg</fanart>
+</item> 
+<item>
+<title>[COLOR magenta][B]Uma Dobra no Tempo (Dublado) - 2018 - 1080p[/B][/COLOR]</title>
+<link>https://d14chltqrjxpin.cloudfront.net/RCFServer4/ondemand/UMDOBRNTEMP.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/5WuvI</thumbnail>
+<fanart>https://image.ibb.co/ekVC0T/5a67fbe7d9fb68e173cfa38b5c00ca5c.png</fanart>
+</item> 
+<item>
+<title>[COLOR magenta][B]Arranha-Céu: Coragem Sem Limite (Dublado) - 2018 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/ARNHCEUCRGMSMLMT.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/kpAdR</thumbnail>
+<fanart>https://www.filmeseseriesdownload.com/wp-content/uploads/2018/08/Arranha-C%C3%A9u.png</fanart>
+</item> 
+<item>
+<title>[COLOR magenta][B]Megatubarão (Dublado) - 2018 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/MEGTBRAO.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/0xeun</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/44GCNI3rCVFPDhVp107jNWXGXnO.jpg</fanart>
+</item> 
+<item>
+<title>[COLOR magenta][B]Mentes Sombrias (Dublado) - 2018 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/MNTSSMBRS.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/5cN53</thumbnail>
+<fanart>https://s1-ssl.dmcdn.net/p34Zk/x1080-Z-r.jpg</fanart>
+</item> 
+<item>
+<title>[COLOR magenta][B]A Maldição da Freira (Dublado) - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/AMDLDFRA.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/qB6xm</thumbnail>
+<fanart>http://www.geeksunited.com.br/wp-content/uploads/2019/03/freira-min.png</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]O Protetor 2 (Dublado) - 2018[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/OPRTOR2.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/YsIwM</thumbnail>
+<fanart>https://3.bp.blogspot.com/-qAtukDgMsvo/WyQ_iVZ58TI/AAAAAAAAD8c/uBo4dL5tkxQrjaa_ckZwt80R6F0Xs0lnACLcBGAs/s1600/O+Protetor+2+2018.jpg</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Inimigo Mortal (Dublado) - 2017 [/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/INMGSMRTL.mp4</link>
+<thumbnail>https://url.gratis/5U7RR</thumbnail>
+<fanart>https://i.ytimg.com/vi/IIoTY7x6W6k/maxresdefault.jpg</fanart>
+</item>        
+<item>
+<title>[COLOR magenta][B]A Casa do Medo (Dublado) - 2018[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/ACSDMDO2018.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/gXa9o</thumbnail>
+<fanart>https://4.bp.blogspot.com/-9Z5QH8Mqjrk/W8EdjYX1QGI/AAAAAAAAI1M/f5rDxgJkYRg7o4dOzDlqvirCzZFE-VOowCLcBGAs/s1600/Ghostland-2018-001.jpg</fanart>
+</item>  
+<item>
+<title>[COLOR magenta][B]Perfeita é a Mãe 2 (Dublado) - 2017 - [/B][/COLOR]</title>
+<link>https://d14chltqrjxpin.cloudfront.net/RCFServer4/ondemand/PRFTEAMA2.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/121w8</thumbnail>
+<fanart>https://i.ytimg.com/vi/bhFp5t2Kw_M/maxresdefault.jpg</fanart>
+</item> 
+<item>
+<title>[COLOR magenta][B]O Mistério do Relógio na Parede 2018[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/OMSTRDRLGIONPRDE.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/j6ksW</thumbnail>
+<fanart>https://i.pinimg.com/originals/5b/68/0f/5b680f84e8ef8447d860fefdd3bfca75.jpg</fanart>
+</item>                 
+<item>
+<title>[COLOR magenta][B]22 Milhas (Dublado) - 2018 [/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/22MLHS.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/BhDuT</thumbnail>
+<fanart>http://www.i9vadore.com/wp-content/uploads/2018/09/mile-22-5b724b5ca9965.jpg</fanart>
+</item>                                             
+<item>
+<title>[COLOR magenta][B]Robin Hood – A Origem - 2018[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/RBNHODAORGM.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/A5K8g</thumbnail>
+<fanart>https://www.cinesideral.com.br/wp-content/uploads/2018/11/thumb_cine.jpg</fanart>
+</item> 
+<item>
+<title>[COLOR magenta][B]Wildling: Criaturas Noturnas / Selvagem (Dublado) - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/SLVGMWDLNG.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/4XrWH</thumbnail>
+<fanart>https://cloud.filmfed.com/movies/images/l_a1b1bdba-4dfc-4cfa-89fa-901ff41f94cf.jpg</fanart>
+</item> 
+<item>
+<title>[COLOR magenta][B]Fuga do Hospício: A História de Nellie Bly (Dublado) - 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/FGADHSPCIOAHSTRDNLEBLY.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/N8e9K</thumbnail>
+<fanart>http://3.bp.blogspot.com/-ose6DUbL75k/XD3vn7UIYJI/AAAAAAABVVw/vjvG2xnXcjkiiFCFXSZJBxDhC0Yk87zUwCK4BGAYYCw/s1600/imagem_release_1570646-709320.jpg</fanart>
+</item> 
+<item>
+<title>[COLOR magenta][B]Por Um Corredor Escuro / Corredor Assombrado (Dublado) - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/CRDRASBRDO.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/Qm1RE</thumbnail>
+<fanart>http://image.tmdb.org/t/p/original/c2r8OVzOg1rQjhZKbSStCUN3N8x.jpg</fanart>
+</item> 
+<item>
+<title>[COLOR magenta][B]Máquinas Mortais - 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/MAQNSMRTS.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/5mnas</thumbnail>
+<fanart>https://falange.net/wp-content/uploads/2018/12/Máquinas-Mortais.jpg</fanart>
+</item> 
+<item>
+<title>[COLOR magenta][B]As Viúvas (Dublado) - 2018 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/ASVIUVS.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/BWk0W</thumbnail>
+<fanart>https://i1.wp.com/nosbastidores.com.br/wp-content/uploads/2018/11/widows-5bb11062b3160.jpg?fit=1920%2C1080&ssl=1</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Holmes & Watson (Dublado) - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/HLMSEWTSN.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/ezD1h</thumbnail>
+<fanart>https://bit.ly/2VO4uvt</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Vidro (Dublado) - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/VDRO.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/7HQH3</thumbnail>
+<fanart>https://bit.ly/2v8tUs3</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]A Babá (Dublado) - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/ABABA.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/OSFB3</thumbnail>
+<fanart>https://bit.ly/2Gl8fBP</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Escape Room (Dublado) - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/ESCPROM.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/dbDEm</thumbnail>
+<fanart>https://bit.ly/2KMtK45</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Stan & Ollie - 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/STNEOLIEOGRDOEOMGRO.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/napkl</thumbnail>
+<fanart>https://bit.ly/2KO19LR</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]O Menino que Queria Ser Rei (Legendado) - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/OMENOQQSREILEG.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/qYlUo</thumbnail>
+<fanart>https://bit.ly/2Znm2Ro</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Não Olhe (Dublado) - 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/NOLH.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/R7jHw</thumbnail>
+<fanart>https://bit.ly/2PqBEPs</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Miss Bala (Dublado) - 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/MISBLA.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/TdqZy</thumbnail>
+<fanart>https://bit.ly/2KUI9LJ</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Golpe de Risco (Dublado) - 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/GLPDRSCO.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/wLiqG</thumbnail>
+<fanart>https://bit.ly/2XzBKHi</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Hellboy LEGENDADO 2019[/B][/COLOR]</title>
+<link>hhttps://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/HLBOYLEG.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/E1jgk</thumbnail>
+<fanart>https://bit.ly/2WlGwb3</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Alita: Anjo de Combate  2018[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/ALITANGDCMBT.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/6XVEU</thumbnail>
+<fanart>https://bit.ly/2H4DPV1</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Extremamente Perverso, Escandalosamente Cruel e Vil (Legendado) - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/EXTRMLYWCKEDSCKEVAVLEG.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/r48Hn</thumbnail>
+<fanart>https://bit.ly/2vUHVK4</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Bundy and the Green River Killer (Legendado) - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/BNDYANDTHGRENRVRKLRLEG.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/WVNg7</thumbnail>
+<fanart>https://bit.ly/2Vllqs3</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]The Convent (Legendado) - 2018 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/THCNVTLEG.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/0ZI66</thumbnail>
+<fanart>https://bit.ly/2W4LSdO</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Cemitério Maldito - Dublado 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/CMTRMLDTO.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/1eEZ7</thumbnail>
+<fanart>https://bit.ly/2JVXA3U</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]A Maldição da Chorona Dublado 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/AMLDCAODCHRNA.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/wtovs</thumbnail>
+<fanart>https://bit.ly/2WRaFPX</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Aladdin 2019 Dublado[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/ALDNLEG.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/N6r5k</thumbnail>
+<fanart>https://bit.ly/2W4NVPR</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]John Wick 3 – Parabellum Legendado - 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/JHNWCK3LEG.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/pUbd0</thumbnail>
+<fanart>https://bit.ly/2EyCAgm</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Nós - Dublado - 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/NOS.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/wxDAA</thumbnail>
+<fanart>https://bit.ly/2EzLvhx</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Escola da Morte (Dublado) - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/ESCLDMRT.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/Yd0S7</thumbnail>
+<fanart>https://bit.ly/2Z0ExtL</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Vingança a Sangue-Frio (Legendado) - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/VNGCASNGFRIO.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/fVssF</thumbnail>
+<fanart>https://bit.ly/2wrJ77V</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]O Mistério das Garotas Perdidas Dublado - 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/OMSTRODSGRTSPRDS.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/FUJAX</thumbnail>
+<fanart>https://bit.ly/2wvy3qG</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]A Morte Te Dá Parabéns (Dublado) - 2017 - 1080p[/B][/COLOR]</title>
+<link>https://d14chltqrjxpin.cloudfront.net/RCFServer4/ondemand/AMRTDPRBNS.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/inPOv</thumbnail>
+<fanart>https://bit.ly/2EJNuQk</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]A Morte Te Dá Parabéns 2 (Dublado) - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/AMRTDPRBNS2.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/k7Z1X</thumbnail>
+<fanart>https://bit.ly/2Xff7rS</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Atentado ao Hotel Taj Mahal Legendado 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/ATNDOAOHTLTJMHL.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/7Nm05</thumbnail>
+<fanart>https://bit.ly/2QTZJ1L</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]A Rebelião DUBLADO 2019[/B][/COLOR]</title>
+<link>https://delivery.openload.network/drive//hls/11f03e8f4f1dd57a8a2e96c2219b0943/11f03e8f4f1dd57a8a2e96c2219b0943.m3u8</link>
+<thumbnail>https://url.gratis/zJGmF</thumbnail>
+<fanart>https://bit.ly/2MzhLId</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Rocketman Dublado 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/RCKMAN.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/wf8Wf</thumbnail>
+<fanart>https://bit.ly/2Zii3EQ</fanart>
+</item>
+<title>[COLOR magenta][B]As Trapaceiras LEGENDADO 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/ASTRPCRAS.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/7LEnT</thumbnail>
+<fanart>https://bit.ly/2wK3RYL</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]De Pernas Pro Ar 3 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/DPRNSPRAR3.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/cMFue</thumbnail>
+<fanart>https://bit.ly/2ISUHiz</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]MIB: Homens de Preto – Internacional  2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/MIBHMDPRTINTER.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/le98L</thumbnail>
+<fanart>https://bit.ly/2FcqDgB</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Pets: A Vida Secreta dos Bichos 2 Dublado 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/PETSAVSCDBS2.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/5fOi4</thumbnail>
+<fanart>https://bit.ly/2IJBfEO</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Cópias – De Volta à Vida 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/CPSDVLT.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/Vbh1x</thumbnail>
+<fanart>https://bit.ly/2KkQxmm</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Medo Profundo: O Segundo Ataque (Legendado) - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/MDOPRFNDOSGNDOATOLEG.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/w1bbp</thumbnail>
+<fanart>https://url.gratis/QqQPB</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]A Cinco Passos de Você[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/ACNCPASDVC.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/gjntp</thumbnail>
+<fanart>https://bit.ly/31LIPHx</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Toy Story 4 Dublado 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/TYSTRY4.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/kljrQ</thumbnail>
+<fanart>https://bit.ly/2RqcMIy</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]A Casa Assombrada (Dublado) - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/ACSASMVRDA.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/6JRS2</thumbnail>
+<fanart>https://url.gratis/ITAAf</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Rota de Fuga 3[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/RTADFGA3.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/ZhDbG</thumbnail>
+<fanart>https://url.gratis/UtgfQ</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Shaft (Dublado) - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/SHFT.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/STVmO</thumbnail>
+<fanart>https://url.gratis/wEG21</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Annabelle 3: De Volta para Casa 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/ANBL3DVLTPCSA.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/rGExb</thumbnail>
+<fanart>https://url.gratis/iL6ZA</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]O Rapto (Dublado) - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/ORPTO.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/XTGFT</thumbnail>
+<fanart>https://url.gratis/qcWF0</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Prece ao Nascer do Dia Dublado 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/UMPRCANTSDAMNHCE.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/BApkt</thumbnail>
+<fanart>https://url.gratis/Iep3T</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Brightburn – Filho das Trevas 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/BRGBRNFLHDSTRVS.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/lC4Ob</thumbnail>
+<fanart>https://url.gratis/Ydcs1</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Brinquedo Assassino 2019 Dublado[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/BRNQDASASNO.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/SxkQ7</thumbnail>
+<fanart>https://url.gratis/pXtUb</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Yesterday Legendado 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/YESRTDY.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/TV2vP</thumbnail>
+<fanart>https://url.gratis/UHwsh</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]A.M.I. Legendado 2019[/B][/COLOR]</title>
+<link>https://cdn.netcine.info/html/content/conteudolb4/filmes2019/AMILEG-BAIXO.mp4?token=QTWSkvkPvNT-DGWaTSaarg&expires=1577563325</link>
+<thumbnail>https://url.gratis/wfJZC</thumbnail>
+<fanart>https://url.gratis/8fZT3</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]The Kid 2019[/B][/COLOR]</title>
+<link>https://cdn.netcine.info/html/content/conteudolb4/filmes2019/THEKID-BAIXO.mp4?token=pBqVAuzNRJyxrDePaR24Uw&expires=1577563255</link>
+<thumbnail>https://url.gratis/IyOeu</thumbnail>
+<fanart>https://url.gratis/6OHBx</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Resgate Mortal Dublado 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer2/ondemand/RSGTMRTL.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/ZagPX</thumbnail>
+<fanart>https://url.gratis/Bwb0M</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]O Rei Leão 2019 Dublado[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/OREILEO.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/QZJT1</thumbnail>
+<fanart>https://url.gratis/Njd1C</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Caçador de Demônios Dublado[/B][/COLOR]</title>
+<link>https://d14chltqrjxpin.cloudfront.net/RCFServer4/demonhunter-dub-720p.mp4</link>
+<thumbnail>https://url.gratis/zsDxj</thumbnail>
+<fanart>https://url.gratis/mquT5</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Casal Improvável Legendado[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/CSLIMPVL.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/3L49P</thumbnail>
+<fanart>https://url.gratis/2Q0Ya</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Stuber Legendado 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/STBRACRDAMLCA.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/7dxPH</thumbnail>
+<fanart>https://url.gratis/WpQDs</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]The Church Legendado 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/AINGJALEG.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/FDUiy</thumbnail>
+<fanart>https://url.gratis/RbRt8</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Entre Mundos Dublado[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/ENTMNDS.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/9mpUi</thumbnail>
+<fanart>https://url.gratis/FDiO0</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Predadores Assassinos[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/PRDRSASANS.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/KMmN7</thumbnail>
+<fanart>https://url.gratis/eQ8cs</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Era uma vez em Hollywood 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/ERAUMVZEMHLWD.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/gEXCn</thumbnail>
+<fanart>https://url.gratis/UJYFm</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]Velozes & Furiosos: Hobbs & Shaw Dublado[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/VLZEFROSOSHBSESW.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/tehEA</thumbnail>
+<fanart>https://url.gratis/9DWLC</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]EL CHICANO (Dublado) - 2018 - 720p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/ELCHCNO.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/NmpHl</thumbnail>
+<fanart>https://url.gratis/Op7yn</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]GODZILLA II: REI DOS MONSTROS (Dublado) - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/GDZLAOREDSMNSTS.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/JQgdr</thumbnail>
+<fanart>https://url.gratis/ip3tE</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]D-RAILED (Dublado) - 2018 - 720p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/DRLD.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/lBmDY</thumbnail>
+<fanart>https://url.gratis/jClrO</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]IT – CAPÍTULO DOIS DUBLADO - 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/ITCAP2.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/hRvSC</thumbnail>
+<fanart>https://url.gratis/6u4re</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]A LENDA DE GOLEM (Dublado) - 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/ALNDOGLM.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/HuVhJ</thumbnail>
+<fanart>https://url.gratis/bVP8Y</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]CRIMES OBSCUROS (Dublado) - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/CRMSOBSCRS.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/FFfE3</thumbnail>
+<fanart>https://url.gratis/BWZPJ</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]ANNA: O PERIGO TEM NOME (Dublado) - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/ANAOPRGTMNME.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/JswkN</thumbnail>
+<fanart>https://url.gratis/61nHh</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]THE BOAT (Dublado) - 2019 - 720p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer1/ondemand/THBOAT.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/PcdqZ</thumbnail>
+<fanart>https://url.gratis/LdVQo</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]RAMBO – Até o Fim - Dub -2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/RMBOATOFMLEG.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/D5NSN</thumbnail>
+<fanart>https://url.gratis/t5lak</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]CORINGA Dub - 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/CRNGA.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/7is4A</thumbnail>
+<fanart>https://url.gratis/VOpdH</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]PROJETO GEMINI - Dub - 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/PRJTGMNI.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/2pKdB</thumbnail>
+<fanart>https://url.gratis/x1XbW</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]O MAL NÃO ESPERA A NOITE - 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/MDSMROMALNESPRANTE.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/g1wst</thumbnail>
+<fanart>https://url.gratis/bO3pO</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]ZUMBILÂNDIA [/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/ZMBLND.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/dxE36</thumbnail>
+<fanart>https://url.gratis/fYuE4</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]ZUMBILÂNDIA – Atire Duas Vezes - Leg - 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/ZMBLNDATRDSVZLEG.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/dxE36</thumbnail>
+<fanart>https://url.gratis/fYuE4</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]MALÉVOLA – DONA DO MAL Dublado - 2019[/B][/COLOR]</title>
+<link>https://delivery.openload.network/drive//hls/5fce7476619a5364ad5457737783ca6f/5fce7476619a5364ad5457737783ca6f.m3u8</link>
+<thumbnail>https://url.gratis/wxGNO</thumbnail>
+<fanart>https://url.gratis/08TP9</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]A FAMÍLIA ADDAMS 2019 Dublado[/B][/COLOR]</title>
+<link>https://s-delivery7.mxdcontent.net/v/112f32658c258529a600627d273ffb1c.mp4?s=PSxWWZjZxC9NhBo86FYWxA&e=1577559424</link>
+<thumbnail>https://url.gratis/vilMO</thumbnail>
+<fanart>https://url.gratis/6LABk</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]O EXTERMINADOR DO FUTURO – DESTINO SOMBRIO - 2019[/B][/COLOR]</title>
+<link>https://s-delivery7.mxdcontent.net/v/7077fc1d929ceffded6e9c5976bbf05a.mp4?s=HchjQ2BY-qnjUz2q7XBVOQ&e=1577559371</link>
+<thumbnail>https://url.gratis/daWxu</thumbnail>
+<fanart>https://url.gratis/ksd7r</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]RAINHAS DO CRIME (Dublado) - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/RNHASDCRME.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/NII9M</thumbnail>
+<fanart>https://url.gratis/UGWTC</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]AS PANTERAS 2019 - DUBLADO[/B][/COLOR]</title>
+<link>https://delivery.openload.network/drive//hls/9abdbc91fb8cf880b5e7bec1e50c9d0d/9abdbc91fb8cf880b5e7bec1e50c9d0d.m3u8</link>
+<thumbnail>https://url.gratis/nFHkl</thumbnail>
+<fanart>https://url.gratis/2NCSI</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]FORD vs. FERRARI 2019 - DUBLADO[/B][/COLOR]</title>
+<link>https://delivery.openload.network/drive//hls/cc36c78038b3ad3b8b5e47e3f0bbace9/cc36c78038b3ad3b8b5e47e3f0bbace9.m3u8</link>
+<thumbnail>https://url.gratis/N0Idt</thumbnail>
+<fanart>https://url.gratis/JkAfs</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]MIDWAY – BATALHA EM ALTO MAR - DUBLADO - 2019[/B][/COLOR]</title>
+<link>https://s-delivery7.mxdcontent.net/v/c413ab23e246644eb4ceeac2a39a5f3d.mp4?s=KNv0ZTVtmaSfvsEdlb853w&e=1577559326</link>
+<thumbnail>https://url.gratis/WvPQ6</thumbnail>
+<fanart>https://url.gratis/BdB0A</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]PÁSSARO DO ORIENTE - DUBLADO - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/PSRODORNTE.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/44cd1</thumbnail>
+<fanart>https://url.gratis/UBNFA</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]O PINTASSILGO - DUBLADO - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/OPNTSLGO.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/2P4FN</thumbnail>
+<fanart>https://url.gratis/Arv9l</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]O IRLANDÊS DUBLADO - 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/OIRLNDS.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/BOSSF</thumbnail>
+<fanart>https://url.gratis/C1oA7</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]INVASÃO AO SERVIÇO SECRETO (Legendado) - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/INVSAOSRVSCRTOLEG.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/N8yqz</thumbnail>
+<fanart>https://url.gratis/8d7Ef</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]AD ASTRA – RUMO ÀS ESTRELAS LEGENDADO - 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/ADSTRMASESTRLS.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/uPqky</thumbnail>
+<fanart>https://url.gratis/Vrt5S</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]CENTRO DE TRAUMA (Dublado) - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/CNTRDTRMA.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/XmJm3</thumbnail>
+<fanart>https://url.gratis/Bktmz</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]DOUTOR SONO Dublado - 2019[/B][/COLOR]</title>
+<link>https://cdn.netcine.info/html/content/conteudolb4/filmes2019/DOCTORSLEEPILEG-BAIXO.mp4?token=j5k8W4vzdsvmpyoLJRmpxg&expires=1577563170</link>
+<thumbnail>https://url.gratis/ukpJN</thumbnail>
+<fanart>https://url.gratis/xKmGl</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]OS MORTOS NÃO MORREM - Dublado-2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/OSMRTSNMOREM.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/XNqaT</thumbnail>
+<fanart>https://url.gratis/cPNYQ</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]JUMANJI – PRÓXIMA FASE Legendado - 2019[/B][/COLOR]</title>
+<link>https://s-delivery11.mxdcontent.net/v/a344e675a2e515f94a97ae19738b8a1e.mp4?s=nbJAzO7gmSqohqncfRUWdA&e=1577559262</link>
+<thumbnail>https://url.gratis/lZNff</thumbnail>
+<fanart>https://url.gratis/e5VK5</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]CODE 8 – RENEGADOS Dublado - 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/CD8RNGDS.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/FMrK1</thumbnail>
+<fanart>https://url.gratis/HNhc1</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]JUDY: MUITO ALÉM DO ARCO-ÍRIS Legendado - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://s-delivery11.mxdcontent.net/v/da9484e15b3cf10fcabeca001eec5006.mp4?s=4Nl4KYLN2Pbz7D3UqkDE4g&e=1577559219</link>
+<thumbnail>https://url.gratis/OvcxK</thumbnail>
+<fanart>https://url.gratis/hCDtx</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]O QUARTO DOS DESEJOS Legendado- 2019[/B][/COLOR]</title>
+<link>https://s-delivery7.mxdcontent.net/v/850a4b7e18ac6579909b75c653d30265.mp4?s=koHgoCLoWcWb-9-Rf4VcsA&e=1577559177</link>
+<thumbnail>https://url.gratis/UBmiA</thumbnail>
+<fanart>https://url.gratis/eeFAE</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]ESQUADRÃO 6 - Dublado - 2019[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/ESQDRAO6.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/SYqjE</thumbnail>
+<fanart>https://url.gratis/boiXp</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]VINGANÇA À SANGUE FRIO (Dublado) - 2019 - 1080p[/B][/COLOR]</title>
+<link>https://dvpa3ulcl9eyc.cloudfront.net/RCFServer3/ondemand/VNGCASNGFRIO.mp4?attachment=true</link>
+<thumbnail>https://url.gratis/VTUXr</thumbnail>
+<fanart>https://url.gratis/4McEy</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]STAR WARS – A ASCENSÃO SKYWALKER Dublado[/B][/COLOR]</title>
+<link>https://s-delivery9.mxdcontent.net/v/4648184bcc712b74f1ba657fe06c6dfa.mp4?s=GmIYrEHVSXXlf9oEADA1NA&e=1577559133</link>
+<thumbnail>https://url.gratis/JnMPQ</thumbnail>
+<fanart>https://url.gratis/1d3Nf</fanart>
+</item>
+<item>
+<title>[COLOR magenta][B]CATS Legendado 2019 - 1080p[/B][/COLOR]</title>
+<link>https://s-delivery13.mxdcontent.net/v/3cfae3afdb950848a48209edda965265.mp4?s=BHCcW2BduL051Wj9wGGZOQ&e=1577559061</link>
+<thumbnail>https://url.gratis/3hpGT</thumbnail>
+<fanart>https://url.gratis/ARHXr</fanart>
+</item>
